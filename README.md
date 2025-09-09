@@ -32,7 +32,7 @@ pip install ultralytics opencv-python
 
 # Run detection
 python fire.py
-
+```
 Dependencies: Ultralytics, openCV
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/414d45c4-f782-4011-a105-d4cff2b0b860" />
