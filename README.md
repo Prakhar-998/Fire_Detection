@@ -21,6 +21,11 @@ The model is trained on colab with custom dataset, the updated weights are then 
 
 Datasets are in Data_compressed folder, in zipped form.
 
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/414d45c4-f782-4011-a105-d4cff2b0b860" />
+
+Dependencies: Ultralytics, openCV
 Run the Project  
 ```bash
 # Clone repository
@@ -33,7 +38,3 @@ pip install ultralytics opencv-python
 # Run detection
 python fire.py
 ```
-Dependencies: Ultralytics, openCV
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/414d45c4-f782-4011-a105-d4cff2b0b860" />
-
